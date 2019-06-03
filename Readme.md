@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Айдар Садыков](https://up.htmlacademy.ru/javascript/17/user/1098489).
-* Наставник: `Неизвестно`.
+* Наставник: Павел Скрипкин.
 
 ---
 
